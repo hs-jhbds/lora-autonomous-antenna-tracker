@@ -45,3 +45,6 @@ A real-time dashboard provides system information, including RSSI, baseline sign
 ## Objective
 
 To develop an automated antenna orientation system that uses wireless signal-strength measurements to identify and maintain an effective receiving direction, reducing the need for manual antenna adjustment.
+
+yt video-
+https://youtu.be/_83Oc3CgYgQ?si=ilq8DlQc8vbfAHxD
